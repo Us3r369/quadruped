@@ -1,5 +1,5 @@
 #include <Servo.h>
-
+// Servos have to be calibrated before assembly to ensure correct physical mounting
 // Servo Pins (all PWM-capable)
 const int LEFT_HIND_HIP_PIN = 2;  // Pin for the left hind hip servo
 const int LEFT_HIND_KNEE_PIN = 3; // Pin for the left hind knee servo
